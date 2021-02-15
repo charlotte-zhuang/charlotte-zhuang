@@ -12,11 +12,11 @@ The Society of Software and Computer Engineer's Discord bot. It enables fun and 
 
 ### coding problems
 
-I've been slowly adding to this repository anything that might be useful for competitive programming. There's also a bit of experimentation on execution times. Some highlights:
+I've been slowly adding to this repository anything that might be useful for competitive programming. There's also a bit of [experimentation on execution times](https://github.com/charlotte-zhuang/coding-problems/tree/main/science). Some highlights:
 
 1. [Heap experiment CLI app](https://github.com/charlotte-zhuang/heap-experiments)
-2. Simple, standard implementations for algorithms and data structures
-3. Explanations of interesting coding problems
+2. [Simple, standard implementations of algorithms and data structures](https://github.com/charlotte-zhuang/coding-problems/tree/main/useful-code)
+3. [Explanations of interesting coding problems](https://github.com/charlotte-zhuang/coding-problems/tree/main/explanations)
 
 [github](https://github.com/charlotte-zhuang/coding-problems)
 
