@@ -8,13 +8,17 @@ I'm a CS and Philosophy student studying at San Jose State University. Welcome t
 
 The Society of Software and Computer Engineer's Discord bot. It enables fun and useful commands on Discord servers (where we spend all our time these days). I worked on the threaded messaging feature, and now took over as the project lead from Jerry Lee.
 
+[github](https://github.com/SCE-Development/SCE-discord-bot)
+
 ### coding problems
 
 I've been slowly adding to this repository anything that might be useful for competitive programming. There's also a bit of experimentation on execution times. Some highlights:
 
-1. Heap experiment CLI app
+1. [Heap experiment CLI app](https://github.com/charlotte-zhuang/heap-experiments)
 2. Simple, standard implementations for algorithms and data structures
 3. Explanations of interesting coding problems
+
+[github](https://github.com/charlotte-zhuang/coding-problems)
 
 ## future
 
