@@ -6,7 +6,7 @@ I'm a CS and Philosophy student studying at San Jose State University. Welcome t
 
 ### SCE discord bot
 
-The Society of Software and Computer Engineer's Discord bot. It enables fun and useful commands on Discord servers (where we spend all our time these days). I worked on the threaded messaging feature, and now took over as the project lead from Jerry Lee.
+The Software and Computer Engineering Society's Discord bot. It enables fun and useful commands on Discord servers (where we spend all our time these days). I worked on the threaded messaging feature, and now took over as the project lead from Jerry Lee.
 
 [github](https://github.com/SCE-Development/SCE-discord-bot)
 
