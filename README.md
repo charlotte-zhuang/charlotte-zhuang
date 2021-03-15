@@ -24,7 +24,7 @@ I've been slowly adding to this repository anything that might be useful for com
 
 I'd like to do some work on machine learning, which I think would be really interesting. More practice with web is also on the horizon.
 
-1. [SCE sentiment analysis bot](https://github.com/IsitaB/SentimentAnalysis) (TensorFlow, BERT)
+1. [SCE sentiment analysis bot](https://github.com/IsitaB/SentimentAnalysis) (TensorFlow, scikit-learn, BERT)
 2. [Breadth First Search Research](https://queue.acm.org/detail.cfm?id=3424304) (C, shell scripts)
 
 ## contact
