@@ -1,14 +1,18 @@
 # about me
 
-I'm a CS and Philosophy student studying at San Jose State University. Welcome to my profile!
+I'm a CS student studying at San Jose State University, minoring in Math and Philosophy.
 
-## current projects
+I'll be busy for a while with internships and schoolwork (at the same time 🥲) until probably summer of 2023 when I graduate, so I imagine I won't be very active for a while.
 
-### SCE discord bot
+## projects
 
-The Software and Computer Engineering Society's Discord bot. It enables fun and useful commands on Discord servers (where we spend all our time these days). I worked on the threaded messaging feature, and now took over as the project lead from Jerry Lee.
+Here are some of my favorite projects!
 
-[github](https://github.com/SCE-Development/SCE-discord-bot)
+### wordle
+
+A parallel [Wordle](https://www.nytimes.com/games/wordle/index.html) solver I wrote in C++ for a class. I'm hoping to make it better soon.
+
+[repo](https://github.com/charlotte-zhuang/wordle)
 
 ### coding problems
 
@@ -18,14 +22,21 @@ I've been slowly adding to this repository anything that might be useful for com
 2. [Simple, standard implementations of algorithms and data structures](https://github.com/charlotte-zhuang/coding-problems/tree/main/useful-code)
 3. [Explanations of interesting coding problems](https://github.com/charlotte-zhuang/coding-problems/tree/main/explanations)
 
-[github](https://github.com/charlotte-zhuang/coding-problems)
+[repo](https://github.com/charlotte-zhuang/coding-problems)
 
-## future
+### SCE discord bot
 
-I'd like to do some work on machine learning, which I think would be really interesting. More practice with web is also on the horizon.
+The Software and Computer Engineering Society's Discord bot. It enables fun and useful commands on Discord servers (where we spend all our time these days). I worked on the threaded messaging feature, and briefly took over as the project lead from Jerry Lee.
 
-1. [SCE sentiment analysis bot](https://github.com/IsitaB/SentimentAnalysis) (TensorFlow, scikit-learn, BERT)
-2. [Breadth First Search Research](https://queue.acm.org/detail.cfm?id=3424304) (C, shell scripts)
+[repo](https://github.com/SCE-Development/SCE-discord-bot)
+
+### Kin Kin
+
+A team project for a class. We made a website to help people find kinesology majors who want to work as physical therapists. I touched most parts of the website here and there. Unfortunately, we didn't have very much time to do this project so it's quite rough.
+
+[online site](https://kinkin-cs160.herokuapp.com) - It's hosted on Heroku's free version so it takes a while to start, then you have to refresh and try to login twice…
+
+[repo](https://github.com/CS160-KinKin/KinKin)
 
 ## contact
 
