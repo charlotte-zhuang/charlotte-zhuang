@@ -4,6 +4,12 @@ I'm a CS student studying at San Jose State University, minoring in Math and Phi
 
 I'll be busy for a while with internships and schoolwork (at the same time 🥲) until probably summer of 2023 when I graduate, so I imagine I won't be very active for a while.
 
+## 1% for the Planet
+
+Check out [my profile on 1% for the Planet](https://directories.onepercentfortheplanet.org/profile/charlotte-zhuang)!
+
+![](https://cdn2.hubspot.net/hubfs/6529561/1ftp_IndividualMember_Horizontal_FullColor-1.png)
+
 ## projects
 
 Here are some of my favorite projects!
