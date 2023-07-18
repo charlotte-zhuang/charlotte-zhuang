@@ -6,8 +6,6 @@ I'll be busy for a while with internships and schoolwork (at the same time 🥲)
 
 ## 1% for the Planet
 
-Check out [my profile on 1% for the Planet](https://directories.onepercentfortheplanet.org/profile/charlotte-zhuang)!
-
 1% for the Planet is a global organization that exists to ensure our planet and future generations thrive. We inspire businesses and individuals to support environmental partners through membership and everyday actions. We make environmental giving easy and effective through partnership advising, impact storytelling and third-party certification.
 
 Started in 2002 by Yvon Chouinard, founder of Patagonia, and Craig Mathews, founder of Blue Ribbon Flies, our business members and individual members have given hundreds of millions of dollars to our approved environmental partners to date. Today, 1% for the Planet’s global network consists of thousands of businesses, individuals and environmental partners working toward a better future for all.
