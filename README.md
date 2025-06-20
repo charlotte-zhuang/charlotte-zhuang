@@ -20,6 +20,8 @@ It's built using [Electron.js](https://www.electronjs.org) with the goal of maki
 
 A [Wordle](https://www.nytimes.com/games/wordle/index.html) solver I made to learn about C++ and multi-processing.
 
+[paper](https://github.com/charlotte-zhuang/wordle/blob/cc285b15d9e629ae3ca6d31e23548e92fbdcda05/parallel-wordle-solver-in-cpp.pdf)
+
 [source code](https://github.com/charlotte-zhuang/wordle)
 
 ### coding problems
